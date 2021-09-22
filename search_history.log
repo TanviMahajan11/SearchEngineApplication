@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-09-22T07:00:55.294952Z</date>
+  <millis>1632294055294</millis>
+  <nanos>952000</nanos>
+  <sequence>0</sequence>
+  <logger>WriteLogEntriesToLogFile</logger>
+  <level>INFO</level>
+  <class>WriteLogEntriesToLogFile</class>
+  <method>WriteLog</method>
+  <thread>12</thread>
+  <message>/home/prithwiraj/Desktop/Coding Experiments/NODEjsProjects/hello.js</message>
+</record>
+<record>
+  <date>2021-09-22T07:00:55.335216Z</date>
+  <millis>1632294055335</millis>
+  <nanos>216000</nanos>
+  <sequence>1</sequence>
+  <logger>WriteLogEntriesToLogFile</logger>
+  <level>INFO</level>
+  <class>WriteLogEntriesToLogFile</class>
+  <method>WriteLog</method>
+  <thread>12</thread>
+  <message>/home/prithwiraj/Music/hello.js</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-09-22T07:04:14.565733Z</date>
+  <millis>1632294254565</millis>
+  <nanos>733000</nanos>
+  <sequence>0</sequence>
+  <logger>WriteLogEntriesToLogFile</logger>
+  <level>INFO</level>
+  <class>WriteLogEntriesToLogFile</class>
+  <method>WriteLog</method>
+  <thread>12</thread>
+  <message>/home/prithwiraj/Desktop/Coding Experiments/NODEjsProjects/hello.js</message>
+</record>
+<record>
+  <date>2021-09-22T07:04:14.604936Z</date>
+  <millis>1632294254604</millis>
+  <nanos>936000</nanos>
+  <sequence>1</sequence>
+  <logger>WriteLogEntriesToLogFile</logger>
+  <level>INFO</level>
+  <class>WriteLogEntriesToLogFile</class>
+  <method>WriteLog</method>
+  <thread>12</thread>
+  <message>/home/prithwiraj/Music/hello.js</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-09-22T07:09:29.520621Z</date>
+  <millis>1632294569520</millis>
+  <nanos>621000</nanos>
+  <sequence>0</sequence>
+  <logger>WriteLogEntriesToLogFile</logger>
+  <level>INFO</level>
+  <class>WriteLogEntriesToLogFile</class>
+  <method>WriteLog</method>
+  <thread>13</thread>
+  <message>/home/prithwiraj/Postman/hello.js</message>
+</record>
+<record>
+  <date>2021-09-22T07:09:29.520616Z</date>
+  <millis>1632294569520</millis>
+  <nanos>616000</nanos>
+  <sequence>1</sequence>
+  <logger>WriteLogEntriesToLogFile</logger>
+  <level>INFO</level>
+  <class>WriteLogEntriesToLogFile</class>
+  <method>WriteLog</method>
+  <thread>12</thread>
+  <message>/home/prithwiraj/Music/hello.js</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-09-22T07:14:26.154170Z</date>
+  <millis>1632294866154</millis>
+  <nanos>170000</nanos>
+  <sequence>0</sequence>
+  <logger>WriteLogEntriesToLogFile</logger>
+  <level>INFO</level>
+  <class>WriteLogEntriesToLogFile</class>
+  <method>WriteLog</method>
+  <thread>12</thread>
+  <message>/home/prithwiraj/Music/Hello.c</message>
+</record>
+<record>
+  <date>2021-09-22T07:14:26.154153Z</date>
+  <millis>1632294866154</millis>
+  <nanos>153000</nanos>
+  <sequence>1</sequence>
+  <logger>WriteLogEntriesToLogFile</logger>
+  <level>INFO</level>
+  <class>WriteLogEntriesToLogFile</class>
+  <method>WriteLog</method>
+  <thread>13</thread>
+  <message>/home/prithwiraj/Postman/Hello.c</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-09-22T07:15:19.030867Z</date>
+  <millis>1632294919030</millis>
+  <nanos>867000</nanos>
+  <sequence>0</sequence>
+  <logger>WriteLogEntriesToLogFile</logger>
+  <level>INFO</level>
+  <class>WriteLogEntriesToLogFile</class>
+  <method>WriteLog</method>
+  <thread>12</thread>
+  <message>/home/prithwiraj/Music/Hello.c</message>
+</record>
+<record>
+  <date>2021-09-22T07:15:19.030869Z</date>
+  <millis>1632294919030</millis>
+  <nanos>869000</nanos>
+  <sequence>1</sequence>
+  <logger>WriteLogEntriesToLogFile</logger>
+  <level>INFO</level>
+  <class>WriteLogEntriesToLogFile</class>
+  <method>WriteLog</method>
+  <thread>13</thread>
+  <message>/home/prithwiraj/Postman/Hello.c</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-09-22T07:29:27.006346Z</date>
+  <millis>1632295767006</millis>
+  <nanos>346000</nanos>
+  <sequence>0</sequence>
+  <logger>WriteLogEntriesToLogFile</logger>
+  <level>INFO</level>
+  <class>WriteLogEntriesToLogFile</class>
+  <method>WriteLog</method>
+  <thread>12</thread>
+  <message>/home/prithwiraj/Postman/Hello.c</message>
+</record>
+<record>
+  <date>2021-09-22T07:29:27.036398Z</date>
+  <millis>1632295767036</millis>
+  <nanos>398000</nanos>
+  <sequence>1</sequence>
+  <logger>WriteLogEntriesToLogFile</logger>
+  <level>INFO</level>
+  <class>WriteLogEntriesToLogFile</class>
+  <method>WriteLog</method>
+  <thread>12</thread>
+  <message>/home/prithwiraj/Music/Hello.c</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-09-22T07:30:06.267314Z</date>
+  <millis>1632295806267</millis>
+  <nanos>314000</nanos>
+  <sequence>0</sequence>
+  <logger>WriteLogEntriesToLogFile</logger>
+  <level>INFO</level>
+  <class>WriteLogEntriesToLogFile</class>
+  <method>WriteLog</method>
+  <thread>12</thread>
+  <message>/home/prithwiraj/Postman/Hello.c</message>
+</record>
+<record>
+  <date>2021-09-22T07:30:06.299739Z</date>
+  <millis>1632295806299</millis>
+  <nanos>739000</nanos>
+  <sequence>1</sequence>
+  <logger>WriteLogEntriesToLogFile</logger>
+  <level>INFO</level>
+  <class>WriteLogEntriesToLogFile</class>
+  <method>WriteLog</method>
+  <thread>12</thread>
+  <message>/home/prithwiraj/Music/Hello.c</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-09-22T07:33:35.174213Z</date>
+  <millis>1632296015174</millis>
+  <nanos>213000</nanos>
+  <sequence>0</sequence>
+  <logger>WriteLogEntriesToLogFile</logger>
+  <level>INFO</level>
+  <class>WriteLogEntriesToLogFile</class>
+  <method>WriteLog</method>
+  <thread>12</thread>
+  <message>/home/prithwiraj/Postman/Hello.c</message>
+</record>
+<record>
+  <date>2021-09-22T07:33:35.204675Z</date>
+  <millis>1632296015204</millis>
+  <nanos>675000</nanos>
+  <sequence>1</sequence>
+  <logger>WriteLogEntriesToLogFile</logger>
+  <level>INFO</level>
+  <class>WriteLogEntriesToLogFile</class>
+  <method>WriteLog</method>
+  <thread>12</thread>
+  <message>/home/prithwiraj/Music/Hello.c</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-09-22T08:18:32.195320Z</date>
+  <millis>1632298712195</millis>
+  <nanos>320000</nanos>
+  <sequence>0</sequence>
+  <logger>WriteLogEntriesToLogFile</logger>
+  <level>INFO</level>
+  <class>WriteLogEntriesToLogFile</class>
+  <method>WriteLog</method>
+  <thread>12</thread>
+  <message>/home/prithwiraj/Postman/random.py</message>
+</record>
+<record>
+  <date>2021-09-22T08:18:32.195322Z</date>
+  <millis>1632298712195</millis>
+  <nanos>322000</nanos>
+  <sequence>1</sequence>
+  <logger>WriteLogEntriesToLogFile</logger>
+  <level>INFO</level>
+  <class>WriteLogEntriesToLogFile</class>
+  <method>WriteLog</method>
+  <thread>13</thread>
+  <message>/home/prithwiraj/Postman/random.py</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-09-22T09:14:54.124416Z</date>
+  <millis>1632302094124</millis>
+  <nanos>416000</nanos>
+  <sequence>0</sequence>
+  <logger>WriteLogEntriesToLogFile</logger>
+  <level>INFO</level>
+  <class>WriteLogEntriesToLogFile</class>
+  <method>WriteLog</method>
+  <thread>12</thread>
+  <message>/home/prithwiraj/Desktop/filesearch.java</message>
+</record>
+<record>
+  <date>2021-09-22T09:14:54.157314Z</date>
+  <millis>1632302094157</millis>
+  <nanos>314000</nanos>
+  <sequence>1</sequence>
+  <logger>WriteLogEntriesToLogFile</logger>
+  <level>INFO</level>
+  <class>WriteLogEntriesToLogFile</class>
+  <method>WriteLog</method>
+  <thread>12</thread>
+  <message>/home/prithwiraj/Desktop/Coding Experiments/filesearch.java</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-09-22T09:27:46.325551Z</date>
+  <millis>1632302866325</millis>
+  <nanos>551000</nanos>
+  <sequence>0</sequence>
+  <logger>WriteLogEntriesToLogFile</logger>
+  <level>INFO</level>
+  <class>WriteLogEntriesToLogFile</class>
+  <method>WriteLog</method>
+  <thread>13</thread>
+  <message>/home/prithwiraj/Desktop/capgemini training material/filesearch.java</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-09-22T11:20:24.887661Z</date>
+  <millis>1632309624887</millis>
+  <nanos>661000</nanos>
+  <sequence>0</sequence>
+  <logger>WriteLogEntriesToLogFile</logger>
+  <level>INFO</level>
+  <class>WriteLogEntriesToLogFile</class>
+  <method>WriteLog</method>
+  <thread>12</thread>
+  <message>/home/prithwiraj/Desktop/java_project/NewFiles.java</message>
+</record>
+<record>
+  <date>2021-09-22T11:20:24.911639Z</date>
+  <millis>1632309624911</millis>
+  <nanos>639000</nanos>
+  <sequence>1</sequence>
+  <logger>WriteLogEntriesToLogFile</logger>
+  <level>INFO</level>
+  <class>WriteLogEntriesToLogFile</class>
+  <method>WriteLog</method>
+  <thread>12</thread>
+  <message>/home/prithwiraj/Videos/Hello/NewFiles.java</message>
+</record>
+<record>
+  <date>2021-09-22T11:20:24.914854Z</date>
+  <millis>1632309624914</millis>
+  <nanos>854000</nanos>
+  <sequence>2</sequence>
+  <logger>WriteLogEntriesToLogFile</logger>
+  <level>INFO</level>
+  <class>WriteLogEntriesToLogFile</class>
+  <method>WriteLog</method>
+  <thread>12</thread>
+  <message>/home/prithwiraj/Videos/java_project/NewFiles.java</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-09-22T12:23:23.350369Z</date>
+  <millis>1632313403350</millis>
+  <nanos>369000</nanos>
+  <sequence>0</sequence>
+  <logger>WriteLogEntriesToLogFile</logger>
+  <level>INFO</level>
+  <class>WriteLogEntriesToLogFile</class>
+  <method>WriteLog</method>
+  <thread>12</thread>
+  <message>/testing/file1.exe</message>
+</record>
+<record>
+  <date>2021-09-22T12:23:23.354677Z</date>
+  <millis>1632313403354</millis>
+  <nanos>677000</nanos>
+  <sequence>1</sequence>
+  <logger>WriteLogEntriesToLogFile</logger>
+  <level>INFO</level>
+  <class>WriteLogEntriesToLogFile</class>
+  <method>WriteLog</method>
+  <thread>13</thread>
+  <message>/home/prithwiraj/Desktop/file1.exe</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-09-22T12:26:57.857992Z</date>
+  <millis>1632313617857</millis>
+  <nanos>992000</nanos>
+  <sequence>0</sequence>
+  <logger>WriteLogEntriesToLogFile</logger>
+  <level>INFO</level>
+  <class>WriteLogEntriesToLogFile</class>
+  <method>WriteLog</method>
+  <thread>12</thread>
+  <message>/home/prithwiraj/Desktop/java_project/file1.exe</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-09-22T12:56:37.491587Z</date>
+  <millis>1632315397491</millis>
+  <nanos>587000</nanos>
+  <sequence>0</sequence>
+  <logger>WriteLogEntriesToLogFile</logger>
+  <level>INFO</level>
+  <class>WriteLogEntriesToLogFile</class>
+  <method>WriteLog</method>
+  <thread>12</thread>
+  <message>/home/prithwiraj/Downloads/dv_oml.sql</message>
+</record>
+</log>
